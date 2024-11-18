@@ -3,7 +3,7 @@ Frontend developer
 
 [💼 Portfolio](https://) | [💬 Telegram](https://t.me/nodirbek2709) | [📧 Email](mailto:nodirjon0927@gmail.com)
 
-<p align="left"> <a href="https://twitter.com/nodirbek27" target="blank"><img src="https://img.shields.io/twitter/follow/nodirbek27?logo=twitter&style=for-the-badge" alt="nodirbek27" /></a> </p>
+<p align="left"> <a href="https://t.me/nodirbek2709" target="blank"><img src="https://img.shields.io/t.me/follow/nodirbek27?logo=twitter&style=for-the-badge" alt="nodirbek2709" /></a> </p>
 
 
 
@@ -19,7 +19,6 @@ Frontend developer
 ## Connect with me:
 <p align="left">
   <a href="https://instagram.com/nodirbek_2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nodirbek_2709" height="30" width="40" /></a>
-<a href="https://twitter.com/nodirbek27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nodirbek27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nodirbek27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nodirbek27" height="30" width="40" /></a>
 </p>
 
