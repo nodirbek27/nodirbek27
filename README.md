@@ -1,5 +1,5 @@
 # Nurmamatov Nodirbek
-## Frontend developer
+Frontend developer
 
 [💼 Portfolio](https://) | [💬 Telegram](https://t.me/nodirbek2709) | [📧 Email](mailto:nodirjon0927@gmail.com)
 
