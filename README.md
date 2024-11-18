@@ -3,7 +3,7 @@ Frontend developer
 
 [💼 Portfolio](https://) | [💬 Telegram](https://t.me/nodirbek2709) | [📧 Email](mailto:nodirjon0927@gmail.com)
 
-<p align="left"> <a href="https://t.me/nodirbek2709" target="blank"><img src="https://img.shields.io/t.me/follow/nodirbek27?logo=twitter&style=for-the-badge" alt="nodirbek2709" /></a> </p>
+<p align="left"> <a href="https://t.me/nodirbek2709" target="blank"><img src="https://img.shields.io/twitter/follow/nodirbek27?logo=twitter&style=for-the-badge" alt="nodirbek2709" /></a> </p>
 
 
 
