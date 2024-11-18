@@ -1,6 +1,5 @@
 # Nurmamatov Nodirbek
-Frontend developer
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+## Frontend developer
 
 [💼 Portfolio](https://) | [💬 Telegram](https://t.me/nodirbek2709) | [📧 Email](mailto:nodirjon0927@gmail.com)
 
